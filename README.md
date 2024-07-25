@@ -8,7 +8,7 @@ TextUtils is word counter, character counter, remove extra spaces, convert upper
 
 # Installation
 
-1. Download the following command with the help of pip 
+1. Download the following command with the help of npm 
 * npm install 
 * npm install react-router-dom
 
